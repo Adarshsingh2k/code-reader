@@ -1,0 +1,22 @@
+# Ignore virtual environment
+venv/
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+# Ignore system files
+.DS_Store
+Thumbs.db
+# Ignore environment variables
+.env
+# Ignore log files
+*.log
+# Ignore VSCode settings
+.vscode/
+# Ignore node modules (if you're using React or Node.js)
+node_modules/
+# Ignore package-lock
+package-lock.json
+# Ignore build outputs
+dist/
+build/

@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "video": {
+      "video_id": "eqPIgQvwCn2u00fXJYuOCC2f9clhw01MqRReP6mc00F3Ec",
+      "product_name": "The U Beauty Duo",
+      "product_photo": "https://ik.imagekit.io/fermat/media/org-images/Kqu5GL2BTmCVPbQ6hanbyg/persisted-files/huJw-I7CR8yPIpaGrfXnNQ.jpg",
+      "rating": 4.5,
+      "star_color": "#FFC300",
+      "reviews": 100,
+      "review_text": "review",
+      "review_font_size": "0.2rem",
+      "review_font_family": "Times New Roman",
+      "review_font_color": "#DAF7A6",
+      "subtitle_text": "Radiant Removal",
+      "subtitle_font_size": "1rem",
+      "subtitle_font_family": "Times New Roman",
+      "subtitle_font_color": "#DAF7A6",
+      "title_text": "The Beauty Duo",
+      "title_font_size": "2rem",
+      "title_font_family": "Times New Roman",
+      "title_font_color": "#DAF7A6",
+      "discounted_price": 100,
+      "original_price": 156,
+      "button_text": "View Products",
+      "background_color": "#000000",
+      "background_opacity": "0.5"
+    }
+  },
+  "generatedAt": "2024-09-29T11:34:05.629Z"
+}
